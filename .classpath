@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/jid3.jar"/>
+	<classpathentry kind="lib" path="lib/jl0.4.jar"/>
+	<classpathentry kind="lib" path="lib/jogg-0.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/jorbis-0.0.12.jar"/>
+	<classpathentry kind="lib" path="lib/mp3spi1.8.jar"/>
+	<classpathentry kind="lib" path="lib/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="lib/vorbisspi0.8.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>

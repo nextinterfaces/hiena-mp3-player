@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<!--<jnlp spec="1.0+" codebase="file:///C:/.dev/hiena-player/hiena-mp3-player/dist/">-->
+<jnlp spec="1.0+" codebase="http://nextinterfaces.com/gwt-mobile-phone-html5-apps-ipad-iphone/hiena-mp3-player/" href="hiena.jnlp" >
+
+    <information>
+      <title>hiena.mp3.player</title>
+      <vendor>http://www.roussev.org</vendor>
+      <homepage href="http://nextinterfaces.com/gwt-mobile-phone-html5-apps-ipad-iphone/hiena-mp3-player/"/>
+      <description>hiena.mp3.player is a kick-ass java mp3,ogg player</description>
+      <description kind="short">hiena.mp3.player</description> 
+      <icon href="icon.gif"/>
+      <offline-allowed /> 
+    </information>
+    
+    <security>
+      <all-permissions/>
+    </security>
+	
+    <resources> 
+      <j2se version="1.6"/>
+      <jar href="hiena.player.jar" main="true" download="eager"/>
+      <jar href="vorbisspi0.8.jar"/>
+      <jar href="jl0.4.jar"/>
+      <jar href="jogg-0.0.5.jar"/>
+      <jar href="jorbis-0.0.12.jar"/>
+      <jar href="mp3spi1.8.jar"/>
+      <jar href="tritonus_share.jar"/>
+      <jar href="jid3.jar"/>
+    </resources>
+	
+    <application-desc main-class="org.roussev.hiena.MainWindow" />
+	  
+</jnlp>
