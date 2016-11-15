@@ -8,3 +8,6 @@ http://nextinterfaces.com/projects/hiena-mp3-player/
 
 ### Showcases:
 http://nextinterfaces.com/showcases/
+
+
+![alt tag](http://nextinterfaces.com/http4e-eclipse/wp-content/uploads/2011/07/java-mp3-player.png)
